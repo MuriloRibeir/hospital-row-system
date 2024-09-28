@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Murilo\\source\\repos\\fila_hospital\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E80CBAF-8A3D-4062-80A7-A63FA6C6D0B4}|fila_hospital\\fila_hospital.csproj|c:\\users\\murilo\\source\\repos\\fila_hospital\\fila_hospital\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E80CBAF-8A3D-4062-80A7-A63FA6C6D0B4}|fila_hospital\\fila_hospital.csproj|solutionrelative:fila_hospital\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E80CBAF-8A3D-4062-80A7-A63FA6C6D0B4}|fila_hospital\\fila_hospital.csproj|c:\\users\\murilo\\source\\repos\\fila_hospital\\fila_hospital\\gerenciadorfila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E80CBAF-8A3D-4062-80A7-A63FA6C6D0B4}|fila_hospital\\fila_hospital.csproj|solutionrelative:fila_hospital\\gerenciadorfila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E80CBAF-8A3D-4062-80A7-A63FA6C6D0B4}|fila_hospital\\fila_hospital.csproj|c:\\users\\murilo\\source\\repos\\fila_hospital\\fila_hospital\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E80CBAF-8A3D-4062-80A7-A63FA6C6D0B4}|fila_hospital\\fila_hospital.csproj|solutionrelative:fila_hospital\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Paciente.cs",
+              "DocumentMoniker": "C:\\Users\\Murilo\\source\\repos\\fila_hospital\\fila_hospital\\Paciente.cs",
+              "RelativeDocumentMoniker": "fila_hospital\\Paciente.cs",
+              "ToolTip": "C:\\Users\\Murilo\\source\\repos\\fila_hospital\\fila_hospital\\Paciente.cs",
+              "RelativeToolTip": "fila_hospital\\Paciente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAcwBoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T20:51:18.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GerenciadorFila.cs",
+              "DocumentMoniker": "C:\\Users\\Murilo\\source\\repos\\fila_hospital\\fila_hospital\\GerenciadorFila.cs",
+              "RelativeDocumentMoniker": "fila_hospital\\GerenciadorFila.cs",
+              "ToolTip": "C:\\Users\\Murilo\\source\\repos\\fila_hospital\\fila_hospital\\GerenciadorFila.cs",
+              "RelativeToolTip": "fila_hospital\\GerenciadorFila.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAIwEMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T20:49:02.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Murilo\\source\\repos\\fila_hospital\\fila_hospital\\Program.cs",
+              "RelativeDocumentMoniker": "fila_hospital\\Program.cs",
+              "ToolTip": "C:\\Users\\Murilo\\source\\repos\\fila_hospital\\fila_hospital\\Program.cs",
+              "RelativeToolTip": "fila_hospital\\Program.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAcwDsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T20:46:29.893Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
